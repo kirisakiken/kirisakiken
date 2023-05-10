@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirisakiken&show_icons=true&theme=dark&locale=en&layout=compact" alt="kirisakiken" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirisakiken&show_icons=true&theme=dark&title_color=ededed&text_color=ffffff&locale=en" alt="kirisakiken" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirisakiken&show_icons=true&theme=dark&title_color=ededed&text_color=ffffff&locale=en" alt="kirisakiken" /></p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirisakiken" alt="kirisakiken" /></a> </p>
 
